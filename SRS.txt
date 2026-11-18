@@ -1,0 +1,52 @@
+Software Requirements Specification (SRS)
+Project Name: Sticker Club App
+Prepared By: Malaika Naveed and kashaf
+
+1. Introduction
+Sticker Club App is an Android application made for girls and
+children. In this app, users can see cute stickers, save them
+and share them with their friends.
+
+2. Purpose
+The purpose of this app is to provide a fun and easy way to
+use stickers. Users can view stickers, open mail, and manage
+trash items.
+
+3. Technology Used
+- Language: Java
+- Design: XML
+- Tool: Android Studio
+- Platform: Android Mobile
+
+4. Functional Requirements
+
+4.1 Home Page
+- Home Page will open first.
+- It will show the name "Sticker Club".
+
+4.2 Sticker List
+- User can see many stickers.
+- Like flower, heart, cat and cute stickers.
+
+4.3 Mail Box
+- User can see Inbox, Sent and Draft mails.
+
+4.4 Trash
+- Deleted stickers and mails will go to Trash.
+- User can empty the Trash.
+
+4.5 Search
+- User can search any sticker.
+
+4.6 Background
+- App background color is yellow.
+- Top bar color is pink.
+
+5. Non-Functional Requirements
+- App should be easy to use.
+- App should open fast.
+- App should work without internet.
+
+6. Conclusion
+This app is simple, cute and user friendly. It will help
+users to enjoy stickers easily.
